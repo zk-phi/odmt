@@ -1,3 +1,5 @@
+NOTE: You may need to run odmt/odmt.py with python2
+
 # OpenSCAD DXF Merge (and clean) Tool (odmt)
 
 OpenSCAD have two missing things when you export a DXF file : 
